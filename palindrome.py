@@ -1,3 +1,7 @@
+"""
+    Palindrome check module.
+"""
+
 
 def palindrome(sentence: str) -> bool:
     """

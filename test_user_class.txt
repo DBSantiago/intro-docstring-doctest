@@ -1,0 +1,12 @@
+>>> from user_class import User
+
+>>> user = User("dbsantiago", "PythonDev")
+
+>>> user.username == "dbsantiago"
+True
+
+>>> user.password == "python"
+False
+
+>>> user.password == "PythonDev"
+True

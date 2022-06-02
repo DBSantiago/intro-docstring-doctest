@@ -1,0 +1,7 @@
+>>> import palindrome
+
+>>> palindrome("kayak")
+True
+
+>>> palindrome("argentina")
+False
